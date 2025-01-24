@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="https://curriculo.gusmfscoder.com.br/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://custom-icon-badges.demolab.com/badge/website-white?style=for-the-badge&logo=world-wide-web(3)&logoColor=%23ffffff&logoSize=auto&labelColor=%234d4cff&color=%234d4cff&cacheSeconds=3600" height="35" alt="facebook logo"  />
   </a>
   <a href="https://www.linkedin.com/in/gustavo-coder/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
